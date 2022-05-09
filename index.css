@@ -8,7 +8,7 @@ img{
     height:80px;
 }
 .row{
-    padding-bottom: 30px;
+     padding-bottom: 30px; 
 }
 .img-container{
     padding-top: 15px;
@@ -29,15 +29,13 @@ img{
     text-align: center;
     background-color: white;
     height:100px;
-    display: block;
+    /* display: block; */
     width: 230px;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
 .column{
     padding:20px;
-    display: inline-block;
-}
-.container{
-    padding-right: 20px;
+    /* display: inline-block; */
+    margin-right: 0.2rem;
 }
